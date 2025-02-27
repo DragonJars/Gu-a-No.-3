@@ -7,8 +7,7 @@
 ## 📂 Contenido del Proyecto
 
 📁 *Código fuente*  
-- analisis_accidentes.ipynb → Análisis interactivo en Jupyter Notebook  
-- analisis_accidentes.py → Código en Python con funciones clave  
+- Guía3.ipynb → Análisis interactivo en Jupyter Notebook  
 
 📁 *Documentación*  
 - README.md → Instrucciones y descripción del proyecto  
@@ -21,8 +20,8 @@
 ## 🛠️ Tecnologías Utilizadas
 
 🔹 *Lenguaje*: Python  
-🔹 *Librerías*: Pandas, Matplotlib, Seaborn, Folium  
 🔹 *Plataforma*: Jupyter Notebook  
+🔹 *Librerías*: Pandas, Matplotlib, Seaborn, Folium  
 ---
 📊 Visualizaciones Generadas
 
